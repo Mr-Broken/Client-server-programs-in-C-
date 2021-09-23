@@ -1,3 +1,5 @@
+#Written by Cyber_boy
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
